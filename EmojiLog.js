@@ -44,6 +44,10 @@ let EmojiLog = [
     {
         emoji: '🎨 STYLE:',
         description: 'Code style changes (white-space, formatting, etc).',
+    },
+    {
+        emoji: '🥇 FIRST COMMIT',
+        description: 'First commit of the project.',
     }
 ];
 exports.default = EmojiLog;
