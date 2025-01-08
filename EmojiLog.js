@@ -46,6 +46,18 @@ let EmojiLog = [
         description: 'Code style changes (white-space, formatting, etc).',
     },
     {
+        emoji: '⬆️ UPDATE:',
+        description: 'Update dependencies.',
+    },
+    {
+        emoji: '🗑️ DELETE:',
+        description: 'Delete a dependency, file or code.',
+    },
+    {
+        emoji: '➕ ADD:',
+        description: 'Add a new dependency, file or code.',
+    },
+    {
         emoji: '🥇 FIRST COMMIT',
         description: 'First commit of the project.',
     }
